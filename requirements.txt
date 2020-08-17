@@ -1,4 +1,5 @@
 discord.py
 requests
 datetime
+urllib3
 geopy
