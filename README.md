@@ -43,5 +43,5 @@ The latter can be obtained on [AVWX](https://avwx.rest/). The format needs to be
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](license) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/No1Cheats/fs-bot/blob/master/LICENSE) file for details
 
