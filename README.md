@@ -42,5 +42,5 @@ The latter can be obtained on [AVWX](https://avwx.rest/). The format needs to be
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](license.md) file for details
 
