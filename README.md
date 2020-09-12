@@ -4,7 +4,7 @@ A simple Python Discord bot using the discord.py library. This bot provides info
 
 ## Getting Started
 
-This project works on Heroku or your own VPS
+This project works on Heroku or your own VPS.
 
 ### Prerequisites
 
